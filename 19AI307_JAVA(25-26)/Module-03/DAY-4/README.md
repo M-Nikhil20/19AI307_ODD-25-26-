@@ -44,8 +44,8 @@ To write a Java program that implements grading strategies using interfaces by d
 ```
 /*
 Program to implement Interface using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -105,4 +105,5 @@ public class main{
 ## RESULT:
 
 Thus, the Java program using interfaces to implement multiple grading strategies was executed successfully.
+
 
