@@ -24,8 +24,8 @@ To write a Java program that demonstrates exception handling by catching a NullP
 ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -66,4 +66,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program to demonstrate exception handling using NullPointerException was successfully implemented.
+
 
