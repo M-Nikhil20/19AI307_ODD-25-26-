@@ -33,8 +33,8 @@ To write a Java program that reads a thread name from the user, assigns it to th
 ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: Cynthia Mehul J
-RegisterNumber:  212223240020
+Developed by: Nikhil M
+RegisterNumber:  212222230095
 */
 ```
 
@@ -64,4 +64,5 @@ public class Main{
 ## RESULT:
 
 Thus, the Java program to set and display the priority and name of the current thread was successfully executed.
+
 
