@@ -44,8 +44,8 @@ To implement the Singleton Design Pattern ensuring that only one Print Spooler M
 ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -92,4 +92,5 @@ public class prog {
 ## RESULT:
 
 Thus, the Java program implementing the Singleton principle for a shared print spooler manager was successfully executed.
+
 
