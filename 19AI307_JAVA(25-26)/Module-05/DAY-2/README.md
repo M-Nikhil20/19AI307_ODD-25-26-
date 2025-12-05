@@ -31,8 +31,8 @@ To write a Java program that serializes a list of Student objects into a file an
 ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: Cynthia Mehul J
-RegisterNumber:  212223240020
+Developed by: Nikhil M
+RegisterNumber:  212222230095
 */
 ```
 
@@ -123,4 +123,5 @@ public class StudentSerializationUserInput {
 ## RESULT:
 
 Thus, the Java program for serializing and deserializing a collection of Student objects was successfully executed and verified.
+
 
