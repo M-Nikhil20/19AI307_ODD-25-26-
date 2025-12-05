@@ -31,8 +31,8 @@ To write a Java program that demonstrates the creation of an inner class and acc
 ```
 /*
 Program to implement a InnerClass using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -65,6 +65,7 @@ class prog {
 ## RESULT:
 
 Thus, the Java program demonstrating the use of an inner class and accessing it through the outer class was successfully executed.
+
 
 
 
