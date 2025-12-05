@@ -26,8 +26,8 @@ To write a program that accepts user input, stores it in a file, and displays on
 ```
 /*
 Program to implement File Handling using Java
-Developed by: Cynthia Mehul J
-RegisterNumber:  212223240020
+Developed by: Nikhil M
+RegisterNumber:  212222230095
 */
 ```
 
@@ -81,4 +81,5 @@ class prog {
 ## RESULT:
 
 Thus, the program to read a file and print lines containing the word **"Java"** was successfully executed.
+
 
