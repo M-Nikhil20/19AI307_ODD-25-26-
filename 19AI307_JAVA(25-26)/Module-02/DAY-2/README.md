@@ -41,8 +41,8 @@ To write a Java program that demonstrates the use of methods by calculating and 
 ```
 /*
 Program to implement a Methods using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -79,4 +79,5 @@ class prog {
 ## RESULT:
 
 Thus, the Java program using methods to compute and display the area of a circle was successfully executed and the output was verified.
+
 
