@@ -37,8 +37,8 @@ To implement a Java program demonstrating the concept of **access specifiers**, 
 ```
 /*
 Program to implement Access Specifiers using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -103,4 +103,5 @@ public class Person {
 ## RESULT:
 
 Thus, the Java program demonstrating access specifiers using getter and setter methods was successfully executed and verified.
+
 
