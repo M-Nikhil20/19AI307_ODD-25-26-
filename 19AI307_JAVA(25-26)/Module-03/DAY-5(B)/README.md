@@ -28,8 +28,8 @@ To write a Java program to check whether a given number is an Armstrong number u
 ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -70,4 +70,5 @@ public class Main{
 Thus, the Java program to check whether a number is an Armstrong number using `Math.pow()` and the `Integer` wrapper class was successfully executed.
 
 ---
+
 
