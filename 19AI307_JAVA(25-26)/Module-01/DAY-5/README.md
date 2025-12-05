@@ -34,8 +34,8 @@ To write a Java program that reads the base and exponent values from the user an
 ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -69,4 +69,5 @@ public class PowerCalculator {
 ## RESULT:
 
 Thus, the Java program using `Math.pow()` to calculate the power of a number was successfully executed and the output was verified.
+
 
