@@ -32,8 +32,8 @@ To write a Java program that demonstrates **polymorphism** by overriding the `sp
 ```
 /*
 Program to implement Polymorphism using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -87,4 +87,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program demonstrating **polymorphism** through method overriding in Car and Bicycle classes was successfully executed.
+
 
