@@ -30,8 +30,8 @@ To write a Java program that implements the State Design Pattern to simulate a f
 ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: Cynthia Mehul J
-RegisterNumber:  212223240020
+Developed by: Nikhil M
+RegisterNumber:  212222230095
 */
 ```
 
@@ -119,5 +119,6 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program implementing the Behavioural State Pattern for simulating a fan controller was executed successfully.
+
 
 
