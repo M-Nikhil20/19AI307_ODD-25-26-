@@ -28,8 +28,8 @@ To write a Java program that demonstrates the use of static and non-static metho
 ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -64,4 +64,5 @@ class prog {
 ## RESULT:
 
 Thus, the Java program demonstrating static and non-static methods using a Calculator class was successfully executed and verified.
+
 
