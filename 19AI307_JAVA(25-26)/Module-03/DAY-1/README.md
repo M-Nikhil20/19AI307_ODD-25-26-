@@ -30,8 +30,8 @@ To write a Java program that demonstrates **inheritance** by creating a supercla
 ```
 /*
 Program to implement Inheritance and Aggregation using Java
-Developed by: Cynthia Mehul J
-RegisterNumber:  212223240020
+Developed by: Nikhil M
+RegisterNumber:  212222230095
 */
 ```
 
@@ -74,4 +74,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program demonstrating inheritance using Vehicle and Car classes was successfully executed.
+
 
