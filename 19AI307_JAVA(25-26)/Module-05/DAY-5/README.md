@@ -45,8 +45,8 @@ To develop a Java program that demonstrates multithreading with synchronization 
 ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: Cynthia Mehul J
-RegisterNumber:  212223240020
+Developed by: Nikhil M
+RegisterNumber:  212222230095
 */
 ```
 
@@ -103,4 +103,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program that demonstrates multithreading with synchronization for a ticket booking system was successfully executed.
+
 
