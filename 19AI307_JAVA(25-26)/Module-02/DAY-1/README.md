@@ -36,8 +36,8 @@ To write a Java program that creates a class with attributes and demonstrates ob
 ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: Cynthia Mehul J
-RegisterNumber: 212223240020
+Developed by: Nikhil M
+RegisterNumber: 212222230095
 */
 ```
 
@@ -86,4 +86,5 @@ public class Main {
 ## RESULT:
 
 Thus, the Java program to implement classes and objects using the Course example was successfully executed and verified.
+
 
